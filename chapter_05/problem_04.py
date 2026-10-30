@@ -1,0 +1,15 @@
+d = {}
+# program to to input 8 numbers from user 
+name = input("Enter name:")
+lang = input("Enter language:")
+d.update({name : value})
+name = input("Enter name:")
+lang = input("Enter language:")
+d.update({name : value})
+name = input("Enter name:")
+lang = input("Enter language:")
+d.update({name : value})
+name = input("Enter name:")
+lang = input("Enter language:")
+d.update({name : value})
+print(d)
